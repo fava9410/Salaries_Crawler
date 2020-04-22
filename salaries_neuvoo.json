@@ -1,0 +1,22 @@
+[
+    {
+        "country" : "Mexico",
+        "url" : "http://neuvoo.com.mx/calculadora-de-impuesto/",
+        "salaries": [31198, 41598, 62397]
+    }, 
+    {
+        "country" : "Argentina",
+        "url" : "http://neuvoo.com.ar/calculadora-de-impuesto/",
+        "salaries" : [93866, 125155, 187733]
+    },
+    {
+        "country" : "Brazil",
+        "url" : "http://neuvoo.com.br/calculadora-de-impostos/",
+        "salaries" : [6990, 9321, 13981]
+    },
+    {
+        "country" : "Panama",
+        "url" : "http://neuvoo.com.pa/calculadora-de-impuesto/",
+        "salaries" : [1499, 1999, 2999]
+    }
+]

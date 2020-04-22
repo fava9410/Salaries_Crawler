@@ -1,0 +1,21 @@
+[
+    {
+        "country" : "Mexico",
+        "country_code": "N;169",
+        "cities": ["C;3486357", "C;5017436", "C;3524097"]
+    }, 
+    {
+        "country" : "Argentina",
+        "country_code" : "N;15",
+        "cities" : ["C;2242084", "C;2203400", "C;2212833", "C;2217741"]
+    },
+    {
+        "country" : "Brazil",
+        "country_code" : "N;36",
+        "cities" : ["C;2479061", "C;2402386", "C;2504041"]
+    },
+    {
+        "country" : "Panama",
+        "country_code" : "'N;194'"
+    }
+]
